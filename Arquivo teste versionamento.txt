@@ -1,1 +1,6 @@
 Versionamento Git
+
+Primeiro trabalho com versionamento 
+
+Coompreendi os passos para criar um repositório local
+e sigo para o remoto 
